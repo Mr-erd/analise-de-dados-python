@@ -139,4 +139,3 @@ Este projeto é um ótimo ponto de partida! Algumas ideias para expandi-lo:
 
 Feito por **[Eugenio Santana]**.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-santana-53880b21b/)
